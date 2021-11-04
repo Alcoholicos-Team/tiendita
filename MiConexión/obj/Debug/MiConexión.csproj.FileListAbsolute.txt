@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\ProyectoTienda\MiConexión\bin\Debug\MiConexión.dll
+C:\Users\USUARIO\Desktop\ProyectoTienda\MiConexión\bin\Debug\MiConexión.pdb
+C:\Users\USUARIO\Desktop\ProyectoTienda\MiConexión\obj\Debug\MiConexión.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\ProyectoTienda\MiConexión\obj\Debug\MiConexión.dll
+C:\Users\USUARIO\Desktop\ProyectoTienda\MiConexión\obj\Debug\MiConexión.pdb

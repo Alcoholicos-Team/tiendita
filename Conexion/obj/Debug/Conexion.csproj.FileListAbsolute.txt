@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\ProyectoTienda\Conexion\bin\Debug\Conexion.dll
+C:\Users\USUARIO\Desktop\ProyectoTienda\Conexion\bin\Debug\Conexion.pdb
+C:\Users\USUARIO\Desktop\ProyectoTienda\Conexion\obj\Debug\Conexion.dll
+C:\Users\USUARIO\Desktop\ProyectoTienda\Conexion\obj\Debug\Conexion.pdb
+C:\Users\USUARIO\Desktop\ProyectoTienda\Conexion\obj\Debug\Conexion.csprojResolveAssemblyReference.cache
